@@ -1,0 +1,7 @@
+train: D:\yolov10香蕉成熟度检测系统\datasets\images\train
+val: D:\yolov10香蕉成熟度检测系统\datasets\images\val
+test: # test images (optional)
+
+# Classes
+nc: 6
+names: ['freshripe', 'freshunripe', 'overripe', 'ripe', 'rotten', 'unripe']

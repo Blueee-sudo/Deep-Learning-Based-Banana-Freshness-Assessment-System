@@ -1,0 +1,7 @@
+train: D:\基于深度学习的香蕉新鲜度等级识别系统\dataset\images\train
+val: D:\基于深度学习的香蕉新鲜度等级识别系统\dataset\images\val
+test: D:\基于深度学习的香蕉新鲜度等级识别系统\dataset\images\test
+
+# Classes
+nc: 6
+names: ['freshripe', 'freshunripe', 'overripe', 'ripe', 'rotten', 'unripe']
