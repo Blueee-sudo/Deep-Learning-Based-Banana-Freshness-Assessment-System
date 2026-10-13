@@ -1,2 +1,3 @@
-# YOLOv10-Banana-Freshness-Grade-Recognition
-A YOLOv10-based system classifying banana freshness into 6 grades. Achieves 0.937 mAP@0.5 on 18K images, enabling real-time detection via a PyQt5 GUI for industrial quality control.
+# Deep Learning-Based Banana Freshness Assessment System
+
+A YOLOv10-based system for detecting bananas and classifying them into six freshness categories. Trained using a dataset of 18,074 images, the model achieves a test-set mAP@0.5 of 0.937. A PyQt5 desktop application integrates OpenCV and model inference to support image, video and live-camera detection, with visualisation and result export.
